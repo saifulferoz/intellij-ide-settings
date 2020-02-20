@@ -1,0 +1,24 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-02-20T09:54:03</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-02-20T11:30:16</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c6c6c6" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
